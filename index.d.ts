@@ -558,4 +558,4 @@ declare namespace LRUCache {
   }
 }
 
-export = LRUCache
+export { LRUCache }

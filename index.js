@@ -942,4 +942,4 @@ class LRUCache {
   }
 }
 
-module.exports = LRUCache
+export { LRUCache }
